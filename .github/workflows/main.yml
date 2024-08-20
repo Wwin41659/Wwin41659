@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "transaction_id": "ed3649c51977f58562faa6986bb86a5432d93ed5",
+  "merchant_username": "google",
+  "amount1": "10.00000000",
+  "currency1": "DOGE",
+  "amount2": "10.00000000",
+  "currency2": "DOGE",
+  "custom": "order1234"
+}
