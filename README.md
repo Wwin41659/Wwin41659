@@ -1,5 +1,5 @@
 <form action="https://faucetpay.io/merchant/webscr" method="post">
-    <input type="text" name="merchant_username" value="[YOUR USERNAME]">
+    <input type="text" name="merchant_username" value="[ong323434]">
     <br>
     <input type="text" name="item_description" value="[ITEM DESCRIPTION]">
     <br>
